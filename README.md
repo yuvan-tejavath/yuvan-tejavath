@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm Yuvan Tejavath 👋
 
-<!--
-**yuvan-tejavath/yuvan-tejavath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring SOC Analyst | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I'm an aspiring cybersecurity professional interested in Security Operations, Network Security, Threat Detection, and Ethical Hacking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing my practical skills through cybersecurity labs, hands-on projects, and continuous learning.
+
+---
+
+### 🎯 About Me
+
+- 🔐 Interested in SOC Analysis and Blue Team Security.
+- 🌱 Currently learning Network Security, SIEM, and Threat Detection.
+- 🛠️ Practising with Kali Linux and cybersecurity tools.
+- 🔍 Exploring OSINT, Network Enumeration, and Vulnerability Assessment.
+- 💻 Building practical cybersecurity projects and documenting my findings.
+- 🎯 Goal: Start my career as a SOC Analyst.
+
+---
+
+### 🛠️ Technical Skills & Tools
+
+**Operating Systems**
+- Kali Linux
+- Windows
+
+**Security Tools**
+- Nmap
+- Wireshark
+- Snort
+- Metasploit
+- theHarvester
+- Sublist3r
+
+**Technical Knowledge**
+- Networking Fundamentals
+- OSINT & Reconnaissance
+- DNS Enumeration
+- Port & Service Scanning
+- Network Traffic Analysis
+- Intrusion Detection Systems (IDS)
+
+---
+
+### 🚀 Featured Projects
+
+**1. OSINT & Network Enumeration Lab**
+
+Practical cybersecurity project covering:
+- Subdomain Enumeration
+- DNS Reconnaissance
+- Nmap Scanning
+- Nmap NSE Scripts
+- Snort Alert Observations
+
+Repository: [OSINT-Network-Enumeration](https://github.com/yuvan-tejavath/OSINT-Network-Enumeration)
+
+---
+
+### 📚 Currently Learning
+
+- SOC Operations
+- SIEM Fundamentals
+- Log Analysis
+- Malware Analysis
+- Incident Detection & Response
+- Active Directory Security
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/yuvan-tejavath
+- Location: Telangana, India
+
+---
+
+*Learning. Practising. Building. Securing.* 🔐
